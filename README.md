@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chase-capron
-- 👀 I’m interested in 3D Printing and GreenThumb(My Project for Plant Care Automation!
+- 👀 I’m interested in 3D Printing and GreenThumb (My Project for Plant Care Automation!
 - 🌱 I’m currently learning how to adapt my GreenThumb prototype to interface directly with a Raspberry Pi
 
 <!---
