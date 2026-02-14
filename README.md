@@ -1,33 +1,37 @@
 # Chase Capron
 
-Computer Engineer building **practical automation** and **clean, reliable systems** — the kind you can trust at 2AM.
+Computer Engineer building practical systems in home automation, AI, and maker workflows.
 
-[![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?logo=homeassistant&logoColor=fff)](https://www.home-assistant.io/)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
-[![Linux](https://img.shields.io/badge/Linux-111?logo=linux&logoColor=fff)](https://www.linux.org/)
-[![Git](https://img.shields.io/badge/Git-111?logo=git&logoColor=fff)](https://git-scm.com/)
+## Core work
+- Home automation with Home Assistant
+- MIDI Home Control Rig with MQTT and gesture-style inputs
+- AI Nutritionist and Meal Planner
+- GreenThumb plant environment project (sensor collection, adaptive automation, Wi-Fi and battery-first hardware)
+- Smart home heating engine with room sensors, occupancy, weather, and user preferences
+- Python automation tooling and scripts
+- Website building and frontend delivery
+- Laser cutting and 3D printing prototypes
 
----
+## Labs and interests
+- Meta Ray-Ban Smart Glasses development
+- Meta Quest 3 projects for AR home interaction
+- Bringing old tech back to useful life
+- Hot Wheels collection database for tracking builds and values
+- Personal long-term robotics goals for practical household help
 
-## Focus
+## Current goals
+- Move dirty dishes and laundry handling toward practical household robotics.
+- Explore a smart personal kitchen helper for repetitive cooking routines.
 
-- **Home automation** (Home Assistant as orchestration)
-- **Hardware ↔ software integration** (MQTT, webhooks, sensors, dashboards)
-- **Tooling that ships** (small surface area, good defaults, maintainable repos)
+## Tech stack
+- Python
+- Home Assistant
+- MQTT
+- JavaScript
+- Git
+- Linux
+- Frontend (HTML, CSS, JavaScript)
 
----
-
-## Now
-
-- Hardening and simplifying Home Assistant workflows
-- Building assistant tooling and repo references to speed up iteration
-
----
-
-## Philosophy
-
-> Make it boring to operate.
-
-<!--
-This is a special repository: `chase-capron/chase-capron` controls the profile README.
--->
+## Links
+- GitHub: https://github.com/chase-capron
+- Profile site: https://github.com/chase-capron/chase-capron
